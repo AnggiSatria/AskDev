@@ -104,7 +104,7 @@ export default function HeaderMegaMenu() {
   ));
 
   return (
-    <Box p={12}>
+    <Box>
       <header className={`${classes.header} `}>
         <Group justify="space-between" h="100%">
           {/* <MantineLogo size={30} /> */}
